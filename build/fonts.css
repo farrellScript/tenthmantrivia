@@ -1,0 +1,19 @@
+/************************************
+Fonts
+************************************/
+
+
+
+@font-face {
+	font-family: 'DSG Sans-Black';
+	src: url('/fonts/DSGSans-Black.eot');
+	src: url('/fonts/DSGSans-Black.woff2') format('woff2'),
+	url('dsg/fonts/DSGSans-Black.woff') format('woff'),
+	url('/dsg/fonts/DSGSans-Black.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+.scoreboard {
+    font-family: 'DSG Sans-Black'
+}

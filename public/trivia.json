@@ -1,0 +1,125 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "How many times does the ball have to be pitched outside of the strike zone before the batter is walked?",
+            "answer": "4"
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What is the oldest team in Major League Baseball?",
+            "answer": "Atlanta Braves"
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "How many srikes are an out?",
+            "answer": "3"
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "How many MLB teams have homes in New York?",
+            "answer": "2"
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which team is from Boston?",
+            "answer": "Red Sox"
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which team is from Baltimore?",
+            "answer": "Cardinals"
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What are the two teams from Chicago?",
+            "answer": "White Sox and Cubs"
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which team is from Cleveland",
+            "answer": "Indians"
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What is the home city for the Tigers?",
+            "answer": "Detriot"
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What is the home city for the Astros",
+            "answer": "Houston"
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which team is from Kansas City?",
+            "answer": "Royals"
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What is the home city for the Athletics?",
+            "answer": "Oakland"
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which team is from Toronto?",
+            "answer": "Blue Jays"
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What was the last year the Red Sox won the World Series?",
+            "answer": "2013"
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What was the last year the Yankees won the World Series?",
+            "answer": "2009"
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "When did the Cubs finally win the world series?",
+            "answer": "2016"
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "How many times have the Red Sox won the world Series?",
+            "answer": "8"
+        }
+
+    ]
+}
